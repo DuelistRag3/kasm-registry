@@ -4,8 +4,8 @@ const nextConfig = {
   env: {
     name: 'CD-IT Services',
     description: 'An unofficial store for Kasm workspaces.',
-    icon: 'https://duelistrag3.kasmweb.com/kasm-registry/1.0/icon.png',
-    listUrl: 'https://duelistrag3.kasmweb.com/kasm-registry/',
+    icon: 'https://duelistrag3.github.io/kasm-registry/1.0/icon.png',
+    listUrl: 'https://duelistrag3.github.io/kasm-registry/',
     contactUrl: 'https://github.com/DuelistRag3/kasm-registry/issues',
   },
   reactStrictMode: true,
