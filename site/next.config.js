@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'CD-IT Services',
+    description: 'An unofficial store for Kasm workspaces.',
+    icon: 'https://duelistrag3.kasmweb.com/kasm-registry/1.0/icon.png',
+    listUrl: 'https://duelistrag3.kasmweb.com/kasm-registry/',
+    contactUrl: 'https://github.com/DuelistRag3/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
