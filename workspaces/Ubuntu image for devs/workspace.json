@@ -1,8 +1,8 @@
 {
   "friendly_name": "Ubuntu image for devs",
   "image_src": "ubuntu-image-for-devs.png",
-  "description": "Ubuntu jammy image made for developers in java",
-  "name": "duelistrage/kasm-java-focal:1.0",
+  "description": "Ubuntu jammy image made for developers",
+  "name": "duelistrage/kasm-dev-jammy:1.2",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
